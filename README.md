@@ -9,4 +9,4 @@ Instalation tutorial [if needed] By IgorL - https://youtu.be/exSLN1WAo8M?feature
 
 
 
-Unleashed Recomp By Skyth - https://github.com/hedge-dev/UnleashedRecomp
+Unleashed Recomp By Hedge-Dev - https://github.com/hedge-dev/UnleashedRecomp
